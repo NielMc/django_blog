@@ -29,7 +29,7 @@
             "**/core.python*":true
          },
          "editor.defaultFormatter":"esbenp.prettier-vscode",
-         "python.linting.pycodestyleEnabled":true,
+         "python.linting.flake8Enabled":true,
          "python.terminal.activateEnvironment":false,
          "workbench.iconTheme":"None",
          "extensions.ignoreRecommendations":true,
